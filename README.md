@@ -1,1 +1,2 @@
 # Transfer-Learning-in-Process-Engineering
+A dictionary of well-fitted GP’s are developed from which ensemble GP models are built without revisiting any data. Every model has its own characteristics such as hyperparamerers, pseudo-inputs and their corresponding posterior densities. This method avoids data centralization, reduces computational costs and allows the transfer of learned uncertainty metrics after training.
